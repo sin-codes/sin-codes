@@ -1,6 +1,6 @@
 ![Header](./header.png)
 
-<h1 align="center">viz</h1>
+<h1 align="center">sin</h1>
 <p align="center">Intermediate javascript developer, I know a bit of python, but that's all</p>
 <a href="https://github.com/viz">
   <p align="center">
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-4/814132672153518141.png" />
+  <img src="https://discord.c99.nl/widget/theme-4/848999697568759918.png" />
   <br />
   <br />
   <img src="https://github-profile-trophy.vercel.app/?username=viz2222&theme=nord&margin-w=15&margin-h=1&column=6" />
