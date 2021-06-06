@@ -1,5 +1,3 @@
-![Header](./header.png)
-
 <h1 align="center">sin</h1>
 <p align="center">Intermediate javascript developer, I know a bit of python, but that's all</p>
 <a href="https://github.com/viz">
@@ -18,5 +16,3 @@
   <br />
   <img src="https://github-profile-trophy.vercel.app/?username=viz2222&theme=nord&margin-w=15&margin-h=1&column=6" />
 </p>
-
-![Footer](./footer.png)
